@@ -28,3 +28,5 @@
 
 ## Thoughts
 - How secure is GitHub?
+- Nice to have repos for code
+- Are there alternatives to git and GitHub?
