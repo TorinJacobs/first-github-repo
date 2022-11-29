@@ -25,3 +25,6 @@
 - command + c - copy
 - command + v - paste
 - command + z - undo
+
+## Thoughts
+- How secure is GitHub?
